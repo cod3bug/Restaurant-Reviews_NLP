@@ -1,0 +1,38 @@
+body {
+    /* background-image: url("img3.jpg"); */
+    background-color: #f38181;
+}
+.navbar{
+    text-align: right;
+}
+.heading{
+    margin-top: 2rem;
+}
+h1 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.predict {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+img {
+    border: 3px solid #555;
+    margin-bottom: 1.5rem;
+}
+
+.result {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 2.5rem;
+    color:#252a34;
+}
